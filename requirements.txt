@@ -1,0 +1,9 @@
+certifi==2024.8.30
+cffi==1.17.0.dev0
+charset-normalizer==3.3.2
+greenlet==0.4.13
+hpy==0.9.0
+idna==3.8
+readline==6.2.4.1
+requests==2.32.3
+urllib3==2.2.2
